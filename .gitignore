@@ -1,0 +1,3 @@
+# zig compiler directories
+zig-cache/
+zig-out/
